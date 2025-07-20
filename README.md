@@ -13,7 +13,7 @@ This project aims to analyze the spatial patterns of the Human Development Index
   - Estimating OLS, SLM, and SEM models
   - Evaluating and interpreting the results
 
-- `Paper - Pemodelan Regresi Spasial IPM Kalimantan.pdf`  
+- `Statistika Spasial.pdf`  
   Full research paper written in **Bahasa Indonesia**, covering background, methodology, results, and conclusions.
 
 ---
